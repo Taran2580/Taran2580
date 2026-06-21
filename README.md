@@ -1,7 +1,7 @@
 ###  Hey everyone, I'm Tarandeep Kaur👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/tarandeep-kaur-617125287)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarandeep-kaur-617125287)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tarandepkaur2005tk@gmail.com)
 
 ## I am a Tech Enthusiast, Marketing, Sales and Business Development
